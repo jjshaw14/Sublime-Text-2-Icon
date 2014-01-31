@@ -17,6 +17,6 @@ How to Install
 
 Color Options
 ---------------------
-![Alt text](/Blue/Sublime-Blue.png)
-![Alt text](/Green/Sublime-Green.png)
-![Alt text](/Red/Sublime-Red.png)
+![Alt text](/Blue/Sublime-Blue.png "Blue")
+![Alt text](/Green/Sublime-Green.png "Green")
+![Alt text](/Red/Sublime-Red.png "Red - The clear choice")
