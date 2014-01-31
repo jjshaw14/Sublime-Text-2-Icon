@@ -14,3 +14,9 @@ How to Install
 		 open /Applications/Sublime\ Text\ 2.app/Contents/Resources/
 
 3. Find the file `Sublime Text 2.icns` and replace it with the one from the appropriate color you would like to use.
+
+Color Options
+---------------------
+![Alt text](/Blue/Sublime-Blue.png)
+![Alt text](/Green/Sublime-Green.png)
+![Alt text](/Red/Sublime-Red.png)
